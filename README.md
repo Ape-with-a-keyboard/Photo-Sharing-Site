@@ -1,3 +1,9 @@
+This is a web-based photo-sharing-site developed in PHP, HTML and running in apache server.
+
+The site includes 5 main modules,User Management Module, Upload Module, Display Module ,Data Analysis Module and Group Module.
+
+Read below for more information
+
 Source Code Location:
 /testsite/signin/
 
